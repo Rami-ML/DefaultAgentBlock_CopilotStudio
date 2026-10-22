@@ -8,6 +8,24 @@ This repository contains a reusable governance approach for controlling agent cr
 
 Two governance modes are supported.
 
+DefaultAgentBlock-main/
+│
+├── DefaultAgentBlock/
+│   ├── DefaultAgentBlock.cs
+│   └── DefaultAgentBlock.csproj
+│
+├── solutions/
+│   ├── AgentGovernanceCore_managed.zip
+│   ├── AgentGovernancePersonalDev_managed.zip
+│   ├── AgentGovernancePersonalDevConversationHarness_managed.zip
+│   └── AgentGovernanceDefault_managed.zip
+│
+├── scripts/
+│   ├── deploy-agent-governance.ps1
+│   └── deploy-all-personaldev-harness-blockers.ps1
+│
+└── README.md
+
 ### Personal Developer Environments
 
 Normal Copilot Studio agents remain allowed.
