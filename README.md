@@ -8,6 +8,7 @@ This repository contains a reusable governance approach for controlling agent cr
 
 Two governance modes are supported.
 
+```text
 DefaultAgentBlock-main/
 │
 ├── DefaultAgentBlock/
@@ -25,6 +26,7 @@ DefaultAgentBlock-main/
 │   └── deploy-all-personaldev-harness-blockers.ps1
 │
 └── README.md
+```
 
 ### Personal Developer Environments
 
